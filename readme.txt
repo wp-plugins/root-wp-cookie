@@ -1,5 +1,6 @@
 === Root WP Cookie ===
 Contributors: ajalapus
+Donate link: http://www.ajalapus.com/donate/
 Tags: cookies, login
 Requires at least: 2.0
 Tested up to: 2.0.7
